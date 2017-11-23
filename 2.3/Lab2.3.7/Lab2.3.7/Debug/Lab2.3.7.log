@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab237.cpp
+d:\labs2017(5)\repositoryess\2.3\lab2.3.7\lab2.3.7\lab237.cpp(14): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab2.3.7.vcxproj -> D:\Labs2017(5)\RepositoryEss\2.3\Lab2.3.7\Debug\Lab2.3.7.exe
+  Lab2.3.7.vcxproj -> D:\Labs2017(5)\RepositoryEss\2.3\Lab2.3.7\Debug\Lab2.3.7.pdb (Partial PDB)

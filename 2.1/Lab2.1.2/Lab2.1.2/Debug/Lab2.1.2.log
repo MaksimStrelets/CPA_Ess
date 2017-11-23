@@ -1,0 +1,5 @@
+﻿  Lab212.cpp
+d:\labs2017(5)\practice)\lab2.1.2\lab2.1.2\lab212.cpp(11): warning C4101: 'net': unreferenced local variable
+d:\labs2017(5)\practice)\lab2.1.2\lab2.1.2\lab212.cpp(11): warning C4101: 'taxvalue': unreferenced local variable
+  Lab2.1.2.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.1.2\Debug\Lab2.1.2.exe
+  Lab2.1.2.vcxproj -> D:\Labs2017(5)\Practice)\Lab2.1.2\Debug\Lab2.1.2.pdb (Partial PDB)

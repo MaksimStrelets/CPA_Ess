@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab342.cpp
+d:\labs2017(5)\repositoryess\3.4\lab3.4.2\lab3.4.2\lab342.cpp(30): warning C4715: 'monthLength': not all control paths return a value
+  Lab3.4.2.vcxproj -> D:\Labs2017(5)\RepositoryEss\3.4\Lab3.4.2\Debug\Lab3.4.2.exe
+  Lab3.4.2.vcxproj -> D:\Labs2017(5)\RepositoryEss\3.4\Lab3.4.2\Debug\Lab3.4.2.pdb (Partial PDB)

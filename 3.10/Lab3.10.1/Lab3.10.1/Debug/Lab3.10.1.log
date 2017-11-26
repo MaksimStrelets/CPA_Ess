@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab3101.cpp
+d:\labs2017(5)\repositoryess\3.10\lab3.10.1\lab3.10.1\lab3101.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3.10.1.vcxproj -> D:\Labs2017(5)\RepositoryEss\3.10\Lab3.10.1\Debug\Lab3.10.1.exe
+  Lab3.10.1.vcxproj -> D:\Labs2017(5)\RepositoryEss\3.10\Lab3.10.1\Debug\Lab3.10.1.pdb (Partial PDB)

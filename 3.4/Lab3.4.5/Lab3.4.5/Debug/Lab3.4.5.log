@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab345.cpp
+d:\labs2017(5)\repositoryess\3.4\lab3.4.5\lab3.4.5\lab345.cpp(17): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note: see declaration of 'localtime'

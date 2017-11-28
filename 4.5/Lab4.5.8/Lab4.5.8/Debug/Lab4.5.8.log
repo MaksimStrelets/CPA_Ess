@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab458.cpp
+d:\labs2017(5)\repositoryess\4.5\lab4.5.8\lab4.5.8\lab458.cpp(13): warning C4018: '<': signed/unsigned mismatch
+d:\labs2017(5)\repositoryess\4.5\lab4.5.8\lab4.5.8\lab458.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Lab4.5.8.vcxproj -> D:\Labs2017(5)\RepositoryEss\4.5\Lab4.5.8\Debug\Lab4.5.8.exe
+  Lab4.5.8.vcxproj -> D:\Labs2017(5)\RepositoryEss\4.5\Lab4.5.8\Debug\Lab4.5.8.pdb (Partial PDB)
